@@ -1,0 +1,6 @@
+ {
+   "model_paths": {
+     "model1": "E:/DTI_Webui/model/model_1.pt",
+     "model2": "E:/DTI_Webui/model/model_2.pt"
+   }
+ }
